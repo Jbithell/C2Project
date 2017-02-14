@@ -1,5 +1,12 @@
 # C2Project
 Westminster School 6th Form Physics - C2 Project - Accelerometer - with @w45ht0n
 
+##Writeup
+*Coming soon*
 
-https://jsfiddle.net/jbithell/buqzaj10/ - used to parse and display data
+##Graphs
+
+![Round1](/graphs/round1overall.png)
+
+![Round2](/graphs/round2overall.png)
+
