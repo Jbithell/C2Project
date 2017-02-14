@@ -1,4 +1,4 @@
-set terminal png size 6000,2000
+set terminal png size 2000,1414
 set output 'output.png'
 set title "C2 Project - Round 2 Data"
 set ylabel "Position (relative)"
