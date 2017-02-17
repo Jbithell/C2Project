@@ -10,4 +10,4 @@ Westminster School 6th Form Physics - C2 Project - Accelerometer - with @w45ht0n
 
 ![Round2](/graphs/round2overall.png)
 
-![Tuesday 24 January](/graphs/round1tuesdayplot-annotated.png)
+![Tuesday 24 January](/graphs/round1tuesdayplot-annotated-withpupilnumbers.png)
