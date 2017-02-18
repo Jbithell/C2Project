@@ -2,7 +2,7 @@
 Westminster School 6th Form Physics - C2 Project - Accelerometer - with @w45ht0n
 
 ##Writeup
-*Coming soon*
+<a href="writeup/writeup.pdf" target="_blank">PDF</a>
 
 ##Graphs
 
